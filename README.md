@@ -13,4 +13,5 @@ captures and logs; it is not part of the pull request diff.
 - `real-proof-summary.json` — machine-readable capture summary.
 - `mock-*.png` — the same page under the repository's Chrome end-to-end test
   with a mocked Gateway and synthetic `*.test` accounts, before and after one
-  Refresh, at 1440px and 390px.
+  Refresh, at 1440px and 390px. The second synthetic account uses a long
+  unbroken email local part so label wrapping is visible at 390px.
