@@ -1,0 +1,32 @@
+{
+  "schema": "openclaw-pr-real-account-usage-proof-v2",
+  "capturedAt": "2026-09-14T08:59:25.667Z",
+  "source": "real local Gateway (isolated state dir) + PR branch Control UI via Vite dev server",
+  "locale": "en-US",
+  "accountCardCount": 4,
+  "initialAccountUsageRequestCount": 4,
+  "refreshAccountUsageRequestCount": 4,
+  "distinctSavedProfilesRefreshed": 4,
+  "refreshMatchedInitialSavedProfiles": true,
+  "desktop": {
+    "stacked": true,
+    "inViewport": true
+  },
+  "mobile390": {
+    "stacked": true,
+    "inViewport": true
+  },
+  "beforeStates": [
+    "team 5h 83% left Resets Sep 14, 5:28 PM Week 22% left Resets Sep 19, 4:57 PM",
+    "team 5h 96% left Resets Sep 14, 9:50 PM Week 36% left Resets Sep 19, 6:08 PM",
+    "team 5h 0% left Resets Sep 14, 5:33 PM Week 15% left Resets Sep 19, 4:17 PM",
+    "team 5h 99% left Resets Sep 14, 8:13 PM Week 32% left Resets Sep 19, 4:09 PM"
+  ],
+  "afterStates": [
+    "team 5h 83% left Resets Sep 14, 5:28 PM Week 22% left Resets Sep 19, 4:57 PM",
+    "team 5h 96% left Resets Sep 14, 9:50 PM Week 36% left Resets Sep 19, 6:08 PM",
+    "team 5h 0% left Resets Sep 14, 5:33 PM Week 15% left Resets Sep 19, 4:17 PM",
+    "team 5h 99% left Resets Sep 14, 8:13 PM Week 32% left Resets Sep 19, 4:09 PM"
+  ],
+  "accountIdentitiesRedacted": true
+}

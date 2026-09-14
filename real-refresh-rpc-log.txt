@@ -1,0 +1,8 @@
+[+    0ms] initial load  -> codex.accountUsage { agentId: "main", profileId: "openai:saved-account-1" }
+[+    0ms] initial load  -> codex.accountUsage { agentId: "main", profileId: "openai:saved-account-2" }
+[+    0ms] initial load  -> codex.accountUsage { agentId: "main", profileId: "openai:saved-account-3" }
+[+    0ms] initial load  -> codex.accountUsage { agentId: "main", profileId: "openai:saved-account-4" }
+[+ 7444ms] Refresh click -> codex.accountUsage { agentId: "main", profileId: "openai:saved-account-1" }
+[+ 7444ms] Refresh click -> codex.accountUsage { agentId: "main", profileId: "openai:saved-account-2" }
+[+ 7444ms] Refresh click -> codex.accountUsage { agentId: "main", profileId: "openai:saved-account-3" }
+[+ 7444ms] Refresh click -> codex.accountUsage { agentId: "main", profileId: "openai:saved-account-4" }
